@@ -3,7 +3,8 @@ This download is designed as a template to be adapted to your environment. In so
 
 Stonebranch assumes no liability for any issues caused by the performance of this download.
 
-Request Support:
+<p><strong>Request Support:</strong></p>
+<ul>
 
 Stonebranch offers paid support, by request, for select Universal Tasks. Paid support provides installation and on-going technical support. Universal Tasks that are eligible for paid support will be noted as “support eligible” within the Universal Task listing page. To learn more, please contact Stonebranch.
 
@@ -13,15 +14,10 @@ Storing data in the cloud becomes an integral part of most modern IT landscapes.
 As security is one of the key concerns when moving to the cloud, the provided solution supports multi-level of security:
 
 <li>Credentials for AWS S3 (Access Key, Secret Access key and Region) are stored in an encrypted form in the database<li>
-
 <li>IAM Role-Based Access Control (RBAC) is supported<li>
-
 <li>Communication to AWS is done via the HTTPS protocol<li>
-
 <li>A Proxy Server connection to AWS with basic authentication is supported<li>
-
 <li>Secure access to AWS S3 buckets using AWS bucket policies can be configured in the AWS console<li>
-
 <li>Restrict sending files only to specific buckets using AWS End Points can be configured in the AWS console<li>
 
 This Universal Task focuses on the AMAZON AWS S3 file transfer, including support for MinIO. MinIO is an Open Source object storage server for private cloud environments based on Amazon’s S3 API. All file transfer scenarios supported for AMAZON AWS S3 are also support for MinIO. The scenarios described in this documentation are also valid for MinIO.
