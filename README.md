@@ -10,4 +10,4 @@
 
 <p>&nbsp;</p>
 Please visit this link to find key features, prerequisites, installation instructions, configuration instructions, and examples of how to use this integration. 
-<a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+AWS+S3">UAC - AWS S3</a>.&nbsp;</li>
+<a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+AWS+SQS">UAC - AWS SQS</a>.&nbsp;</li>
