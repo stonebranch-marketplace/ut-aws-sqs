@@ -2,7 +2,7 @@
 <p>Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. Using SQS, enterprises can send, store, and receive messages between software components.</p>
 <p>The Stonebranch Universal Tasks for AWS SQS allows you to create, send and monitor AWS SQS messages and automatically trigger a task or workflow in Universal Controller each time a message has been received.</p>
 <p><strong>Watch this 10 min detailed demonstration video:</strong>&nbsp;</p>
-<p><iframe frameborder="0" src="https://www.youtube.com/embed/nD4Z3s6noDk" width="560" height="315" allowfullscreen=""></iframe></p>
+"https://www.youtube.com/embed/nD4Z3s6noDk"
 <p>&nbsp;<strong>Key Features:</strong></p>
 <ul>
 <li>Allows you to monitor for, create and send AWS SQS messages</li>
